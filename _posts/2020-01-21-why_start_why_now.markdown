@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Start?  Why Now?"
-date:       2020-01-22 00:41:20 +0000
+date:       2020-01-21 19:41:21 -0500
 permalink:  why_start_why_now
 ---
 
