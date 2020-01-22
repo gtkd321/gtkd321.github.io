@@ -1,11 +1,11 @@
 # Site settings
 author: Daniel Houlis
-title: 
+title: Problems Worth Solving
 header-img: img/home-bg.png
 email: danielhoulis@gmail.com
 copyright_name: Daniel Houlis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Smart People Should Build Things
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gtkd321
